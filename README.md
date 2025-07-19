@@ -15,7 +15,10 @@ It analyzes password strength in real-time and provides instant feedback.
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![Preview](screenshot.png)
+![Preview](images/Screenshot1.png)
+![Preview](images/Screenshot2.png)
+![Preview](images/Screenshot3.png)
+
 
 ## 💻 Demo
 [Live Demo](https://challalakshmi12.github.io/password-checker)
